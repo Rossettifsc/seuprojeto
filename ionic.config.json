@@ -1,0 +1,7 @@
+{
+  "name": "seuprojeto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
