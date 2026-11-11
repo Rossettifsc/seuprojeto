@@ -1,3 +1,8 @@
+# Identificação
+
+- **Nome:** Elisa Rossetti
+- **Turma:** 3º info
+
 # Saldo — finanças pessoais
 
 Aplicativo mobile-first feito com Ionic Vue, Supabase e ApexCharts. Permite cadastrar receitas e despesas, acompanhar indicadores e gráficos, criar metas e registrar valores guardados. O modo escuro fica salvo no dispositivo.
