@@ -7,6 +7,10 @@
 
 Aplicativo mobile-first feito com Ionic Vue, Supabase e ApexCharts. Permite cadastrar receitas e despesas, acompanhar indicadores e gráficos, criar metas e registrar valores guardados. O modo escuro fica salvo no dispositivo.
 
+## Como o código está organizado
+
+Consulte o [guia de arquitetura e apresentação](./docs/ARQUITETURA.md) para entender o papel de cada parte e explicar os principais fluxos.
+
 ## Executar
 
 ```bash
